@@ -8,7 +8,7 @@ executable names as command line arguments to be executed in a pipeline.
 ## Building
 
 In directory:
-> gcc pipe.c -o pipe
+> make
 
 ## Running
 To run:
@@ -25,4 +25,4 @@ Examples:
 
 ## Cleaning up
 
-> rm pipe
+> make clean
